@@ -13,7 +13,7 @@ Built with Cloudflare's [Durable Objects](https://developers.cloudflare.com/dura
 - Authentication support to secure your rooms
 - [Presence](https://syncosaurus.github.io/docs/category/core-concepts/presence) support to broadcast ephemeral data, including live cursors and live status updates
 
-To learn more about the Syncosaurus framework, including instructions on how to get started, visit our [website](https://syncosaurus.github.io/) and [documentation](https://syncosaurus.github.io/docs).
+To learn more about the Syncosaurus framework, including instructions on how to get started, visit our [website](https://syncosaurus.github.io/) and [docs page](https://syncosaurus.github.io/docs).
 
 ## Syncosaurus Team
 
