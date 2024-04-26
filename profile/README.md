@@ -1,4 +1,4 @@
-# Syncosaurus
+## Syncosaurus Overview
 
 Syncosaurus is a performant, collaborative, real-time Javascript framework that enables developers to focus on their application's features and business logic instead of the complexities of state synchronization and conflict resolution.
 
