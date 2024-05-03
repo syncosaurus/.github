@@ -17,10 +17,10 @@ To learn more about the Syncosaurus framework, including instructions on how to 
 
 ## Syncosaurus Team
 
-[Joseph Liang](https://jgoteam.github.io) • Software Engineer • Oakland, CA
+[Joseph Liang](https://jgoteam.github.io) • Software Engineer • San Francisco, CA
 
-[Erik Margetis](#) • Software Engineer • San Francisco, CA
+[Erik Margetis](https://emargetis.com/) • Software Engineer • San Francisco, CA
 
-[Alex Sklar](#) • Software Engineer • Portland, OR
+[Alex Sklar](https://alexsklar.dev/) • Software Engineer • Portland, OR
 
 
