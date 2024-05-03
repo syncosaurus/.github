@@ -17,7 +17,7 @@ To learn more about the Syncosaurus framework, including instructions on how to 
 
 ## Syncosaurus Team
 
-[Joseph Liang](#) • Software Engineer • Oakland, CA
+[Joseph Liang](https://jgoteam.github.io) • Software Engineer • Oakland, CA
 
 [Erik Margetis](#) • Software Engineer • San Francisco, CA
 
